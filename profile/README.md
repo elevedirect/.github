@@ -14,3 +14,5 @@ Ce projet est développé seul et est très récent, des bugs peuvent être pré
 
 Le site (et donc l'application mobile) sont hors-ligne pendant les grandes vacances (les comptes étant désactivés, le site ne sert plus et j'éteint donc serveur en raison d'écologie...)
 
+
+[Etat du réseau](https://status-hosted.server.camarm.fr/status/elevedirect)

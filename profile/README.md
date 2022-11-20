@@ -4,7 +4,7 @@
 
 EleveDirect est un client EcoleDirect open source (sous licence MIT)
 
-Retrouvez ce projet à [eleve-direct.server.camarm.fr](http://eleve-direct.server.camarm.fr) ou [ed.camarm.fr](http://ed.camarm.fr).
+Retrouvez ce projet à [http://elevedirect.tk](http://elevedirect.tk) ou [ed.camarm.fr](http://ed.camarm.fr).
 
 ## Pourquoi ?
 Retrouvez vos moyennes avant meme la fin du semestre, programmez vous des rappels pour les révision de contrôle et téléchargez votre carte de cantine !
